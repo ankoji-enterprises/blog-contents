@@ -1,0 +1,4 @@
+baseURL = 'https://ankoji-enterprises.github.io/'
+languageCode = 'en-us'
+title = 'Gautam Ankoji Articles'
+theme="hugo-coder"

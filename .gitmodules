@@ -1,0 +1,4 @@
+[submodule "gautamankoji-articles/public"]
+	path = gautamankoji-articles/public
+	url = https://github.com/ankoji-enterprises/ankoji-enterprises.github.io.git
+	branch = master
